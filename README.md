@@ -10,4 +10,6 @@ connectionFactoryBuilder.setFailureMode(FailureMode.Redistribute);
 How to run?
 ___________
 
+```
 mvn clean test
+```
